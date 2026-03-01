@@ -46,3 +46,6 @@ CREATE DATABASE bitespeed;
 
 ▶️ Run the Application
 uvicorn main:app --reload
+
+Live Link
+https://bitspeed-uxfw.onrender.com/docs
